@@ -1,6 +1,6 @@
 # gogoghpages
 
-Any text here to test this site. I already tired.
+Any text here to test this site. I'm already tired.
 Another line.*This part is italic*, **and this one is bold**.
 
 ## Link
